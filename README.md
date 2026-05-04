@@ -57,7 +57,7 @@ Las nuevas versiones se publican cada 3-4 meses.
 ### 🔄 Versiones Nightly
 
 Puedes descargar versiones experimentales desde:
-https://github.com/isairey/PlataformaStreamingMusic/releases/tag/V1
+https://github.com/isairey/PlataformaStreamingMusica/releases/tag/V1
 
 ---
 
