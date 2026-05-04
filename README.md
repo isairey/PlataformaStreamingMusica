@@ -73,6 +73,7 @@ Puedes compilar el proyecto siguiendo las instrucciones en:
 ## 👤 Autor
 
 **Isai Reyes**
+
 ---
 
 ## 💼 Licencia
