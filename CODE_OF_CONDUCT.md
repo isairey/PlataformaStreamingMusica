@@ -1,70 +1,73 @@
-# Code of Conduct - Spotube
+# 📜 Código de Conducta - Spotube
 
-## Our Pledge
+## 🤝 Nuestro Compromiso
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to make participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+Con el objetivo de fomentar un entorno abierto, inclusivo y respetuoso, nosotros como colaboradores y mantenedores nos comprometemos a garantizar que la participación en este proyecto y su comunidad sea una experiencia libre de acoso para todas las personas, sin importar su edad, tamaño corporal, discapacidad, etnia, características sexuales, identidad y expresión de género, nivel de experiencia, educación, estatus socioeconómico, nacionalidad, apariencia personal, raza, religión u orientación sexual.
 
-## Our Standards
+---
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+## 🌟 Nuestros Estándares
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the
-overall community
+Ejemplos de comportamientos que contribuyen a un ambiente positivo incluyen:
 
-Examples of unacceptable behavior include:
+* Mostrar empatía y amabilidad hacia otras personas
+* Respetar diferentes opiniones, puntos de vista y experiencias
+* Dar y aceptar retroalimentación constructiva de manera adecuada
+* Asumir la responsabilidad de nuestros errores, disculparnos y aprender de ellos
+* Priorizar el bienestar de la comunidad por encima de intereses individuales
 
-* The use of sexualized language or imagery, and sexual attention or
-advances
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email
-address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-professional setting
+### ❌ Comportamientos inaceptables
 
-## Our Responsibilities
+* Uso de lenguaje o imágenes sexualizadas, o insinuaciones no deseadas
+* Trolling, insultos, comentarios despectivos o ataques personales/políticos
+* Acoso público o privado
+* Publicar información privada de otras personas sin su consentimiento
+* Cualquier conducta inapropiada en un entorno profesional
 
-Project maintainers are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
+---
 
-Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, or to ban
-temporarily or permanently any contributor for other behaviors that they deem
-inappropriate, threatening, offensive, or harmful.
+## 🛠️ Responsabilidades
 
-## Scope
+Los mantenedores del proyecto son responsables de aclarar y hacer cumplir estas normas.
+Podrán tomar acciones correctivas apropiadas y justas ante comportamientos inaceptables.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Esto incluye:
 
-## Enforcement
+* Eliminar o editar comentarios, commits, código o contribuciones
+* Rechazar contribuciones que no cumplan con este código
+* Suspender o expulsar temporal o permanentemente a usuarios
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at <>.
-All complaints will be reviewed and investigated promptly and fairly.
+---
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+## 🌐 Alcance
 
-## Attribution
+Este Código de Conducta aplica en todos los espacios del proyecto, así como en espacios públicos cuando una persona represente oficialmente a la comunidad.
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org/), version
-[1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct/code_of_conduct.md) and
-[2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md),
-and was generated by [contributing-gen](https://github.com/bttger/contributing-gen).
+Ejemplos:
+
+* Uso de correos oficiales del proyecto
+* Publicaciones en redes sociales del proyecto
+* Participación como representante en eventos
+
+---
+
+## 🚨 Aplicación
+
+Los casos de comportamiento abusivo, acoso o inapropiado pueden reportarse a:
+
+📧 **[isaireyes2003@gmail.com](mailto:isaireyes2003@gmail.com)**
+
+Todas las denuncias serán revisadas e investigadas de manera justa y confidencial.
+
+Los responsables del proyecto están obligados a proteger la privacidad de quien reporte un incidente.
+
+---
+
+## 📌 Atribución
+
+Este Código de Conducta está basado en:
+
+* [Contributor Covenant v1.4](https://www.contributor-covenant.org/version/1/4/code_of_conduct/code_of_conduct.md)
+* [Contributor Covenant v2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/code_of_conduct.md)
+
+Generado y adaptado para este proyecto.
