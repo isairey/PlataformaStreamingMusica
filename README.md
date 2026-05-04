@@ -70,13 +70,9 @@ Puedes compilar el proyecto siguiendo las instrucciones en:
 
 ---
 
-## 👥 Equipo de desarrollo
+## 👤 Autor
 
-- **Kingkor Roy Tirtho** – Fundador y desarrollador principal  
-- **Owen Connor** – Moderador de Discord  
-- **Piotr Rogowski** – Desarrollador MacOS  
-- **Rusty Apple** – Colaborador  
-
+**Isai Reyes**
 ---
 
 ## 💼 Licencia
