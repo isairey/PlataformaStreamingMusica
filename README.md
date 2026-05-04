@@ -101,9 +101,4 @@ Este proyecto utiliza múltiples tecnologías y servicios, entre ellos:
 
 Y muchas otras dependencias open-source.
 
----
-
-<div align="center">
-  <h4>© Spotube 2025</h4>
-</div>
 
