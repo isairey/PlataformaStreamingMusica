@@ -65,3 +65,45 @@ https://github.com/KRTirtho/spotube/releases/tag/nightly
 
 Puedes compilar el proyecto siguiendo las instrucciones en:
 
+- CONTRIBUTION.md
+
+
+---
+
+## 👥 Equipo de desarrollo
+
+- **Kingkor Roy Tirtho** – Fundador y desarrollador principal  
+- **Owen Connor** – Moderador de Discord  
+- **Piotr Rogowski** – Desarrollador MacOS  
+- **Rusty Apple** – Colaborador  
+
+---
+
+## 💼 Licencia
+
+Este proyecto es de código abierto bajo la licencia **BSD-4-Clause**.
+
+---
+
+## 🙏 Créditos (resumen)
+
+Este proyecto utiliza múltiples tecnologías y servicios, entre ellos:
+
+- Flutter
+- MPV
+- MusicBrainz
+- ListenBrainz
+- yt-dlp
+- Invidious
+- SponsorBlock
+- F-Droid
+- Last.fm
+
+Y muchas otras dependencias open-source.
+
+---
+
+<div align="center">
+  <h4>© Spotube 2025</h4>
+</div>
+
